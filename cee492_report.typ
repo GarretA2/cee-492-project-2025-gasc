@@ -15,7 +15,7 @@
     ),
     (
       name: "Garret Anderson",
-      department: CEE (Geotechnical),
+      department: [CEE (Geotechnical)],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
       email: "author2@illinois.edu",
