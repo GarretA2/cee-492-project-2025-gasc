@@ -1,7 +1,7 @@
 #import "@preview/charged-ieee:0.1.4": ieee
 
 #show: ieee.with(
-  title: [Report Template],
+  title: [CEE492 - Group Project (Topic Pending)],
   abstract: [
     This is where you put your abstract. Abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract.
   ],
